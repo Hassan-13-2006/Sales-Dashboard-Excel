@@ -65,6 +65,10 @@ Selecting a slicer automatically updates the charts and KPI cards.
 - Data visualization
 - Interactive Excel reporting
 
+## 📸 Dashboard Preview
+
+![Sales Dashboard](Dashboard.png)
+
 ## 👨‍💻 Author
 
 **Khan Mohd Hassan Mohd Saeed**
